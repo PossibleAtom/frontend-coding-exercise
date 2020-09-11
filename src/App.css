@@ -1,0 +1,12 @@
+.searchWrap {
+    display: flex;
+}
+
+.searchTitle {
+    min-width: 70px;
+}
+
+.inputWrap {
+    position: relative;
+    width: 100%;
+}

@@ -17,7 +17,7 @@ export default function Button(props) {
 
   return (
     <button
-      type="button"
+      type="submit"
       className={"Button " + (className || "")}
       onClick={onClick}
       {...otherProps}
